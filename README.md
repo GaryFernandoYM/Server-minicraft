@@ -21,4 +21,5 @@ Este proyecto permite desplegar un servidor de **Minecraft Java Edition** de for
 ### Dockerfile
 
 ```dockerfile
-FROM itzg/minecraft-server:latest
+docker-compose up -d --build
+
